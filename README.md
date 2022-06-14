@@ -1,7 +1,7 @@
 <h3 align="left">Hey! 👋</h3>
 
 ###
-<p align="left">My name is Juanse and I'm from <img src="https://cdn-icons-png.flaticon.com/512/323/323343.png" width="17" />  <strong>Cúcuta, Colombia</strong>. I'm  a <em>Computer and Systems Engineering BSc</em> from <strong>Universidad de los Andes, Bogotá, Colombia</strong>. I'm also a <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="17" /> <em><strong>Python Software and Data Engineer</strong></em></p>
+<p align="left">My name is Juanse and I'm from <img src="https://cdn-icons-png.flaticon.com/512/323/323343.png" width="17" />  <strong>Cúcuta, Colombia</strong>. I'm  a <em>Computer and Systems Engineering BSc</em> from <strong>Universidad de los Andes, Bogotá, Colombia</strong>. I'm also a <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="17" /> <em><strong>Python Software and Data Engineer</strong></em> since 2019.</p> 
 
 ###
 <p align="left">:sparkles: Data Engineer since 2020<br>:books: I'm currently learning english  and docker whale<br>:dart: Goals: Build a world class Data Engineering team / get my own apartment :house: and get better with english everyday :rocket:</p>
