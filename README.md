@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
-  <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" height="40" width="40" alt="airflow logo"  />
+  <img src="https://www.svgrepo.com/show/353380/airflow.svg" height="40" width="40" alt="airflow logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" height="40" width="52" alt="apachespark logo"  />
   <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" height="40" width="40" alt="dbt logo" />
   <img src="https://greatexpectations.io/static/protag-f9bde762a58323b62e2c19c514c74ba8.png" height="40" width="40" alt="ge logo" />
