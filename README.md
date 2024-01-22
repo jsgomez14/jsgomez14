@@ -15,7 +15,6 @@
   <img src="https://www.svgrepo.com/show/353380/airflow.svg" height="40" width="40" alt="airflow logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" height="40" width="52" alt="apachespark logo"  />
   <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" height="40" width="40" alt="dbt logo" />
-  <img src="https://greatexpectations.io/static/protag-f9bde762a58323b62e2c19c514c74ba8.png" height="40" width="40" alt="ge logo" />
 </div>
 
 
